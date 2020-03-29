@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Career Mapper",
+    "description": "A web application that helps its users compare cost of living across major US cities/states and make smart decisions while moving out of a city.",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "tech": "MySQL, PHP, HTML/CSS, JavaScript, Java",
+    "image": "https://images.unsplash.com/photo-1451988336904-b1a6e8846746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+    "cover": "https://images.unsplash.com/photo-1451988336904-b1a6e8846746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+    "email": "aashwinvats@gmail.com"
+  },
+  {
+    "id": "2",
+    "name": "Neso Academy",
+    "description": "A cool place for high school & undegrad students to watch educational videos in a organised way. ",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "tech": "MySQL, PHP, HTML/CSS, JavaScript, Java",
+    "image": "https://images.unsplash.com/photo-1504275107627-0c2ba7a43dba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80",
+    "cover": "https://images.unsplash.com/photo-1504275107627-0c2ba7a43dba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80",
+    "email": "aashwinvats@gmail.com"
+  },
+  {
+    "id": "3",
+    "name": "Online Project",
+    "description": "A customisable web app for users to prepare their online portfolio using a template of their choice.",
+    "longDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "tech": "HTML/CSS, React.js, Node.js, MongoDB",
+    "image": "https://images.unsplash.com/photo-1508317469940-e3de49ba902e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+    "cover": "https://images.unsplash.com/photo-1508317469940-e3de49ba902e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+    "email": "aashwinvats@gmail.com"
+  },
+  {
+    "name": "Movie-Buff",
+    "description": "An app where you can share movie playlists.",
+    "longDesc": "A test card",
+    "image": "https://images.unsplash.com/photo-1515089836358-4c06e3b50c80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    "cover": "https://images.unsplash.com/photo-1515089836358-4c06e3b50c80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    "tech": "HTML/CSS,Ruby on Rails",
+    "id": "rkasc",
+    "email": "aashwinvats@gmail.com"
+  },
+  {
+    "name": "Travel Guide ",
+    "description": "This app will help you decide your next travel destination.",
+    "longDesc": "Advises you where you can travel to according to your budget, weather, safety, travel constraints.",
+    "image": "https://images.unsplash.com/photo-1562886832-b9ee449ae865?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80",
+    "cover": "https://images.unsplash.com/photo-1562886832-b9ee449ae865?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80",
+    "tech": "HTML/CSS,Node.js",
+    "id": "kvslj",
+    "email": "aashwinvats@gmail.com"
+  },
+  {
+    "name": "Random",
+    "description": "yet another test project",
+    "longDesc": "Yet another long dec",
+    "image": "https://images.unsplash.com/photo-1453227588063-bb302b62f50b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+    "cover": "https://images.unsplash.com/photo-1453227588063-bb302b62f50b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+    "tech": "HTML/CSS,Ruby on Rails,Node.js",
+    "id": "inher",
+    "email": "aashwinvats@gmail.com"
+  },
+  {
+    "name": "Cap’nShare",
+    "description": "An app where you can share food.",
+    "longDesc": "test",
+    "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+    "email": "aashwinvats@gmail.com",
+    "cover": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+    "tech": "HTML/CSS,Ruby on Rails",
+    "id": "up77s"
+  },
+  {
+    "name": "dfsdf",
+    "description": "dfasdf",
+    "longDesc": "fadsfads",
+    "image": "sfdadf",
+    "email": "dfasdf",
+    "cover": "sfdasdf",
+    "tech": "HTML/CSS,Pthon,Java",
+    "id": "4lybf"
+  }
+]
